@@ -1,4 +1,4 @@
-<img src="assets/logo.png" style="width: 100px; height: 100px; object-fit: contain; border-radius: 30px;"> 
+<img src="Assets/logo.png" style="width: 100px; height: 100px; object-fit: contain; border-radius: 30px;"> 
 
 # TypeTalk 
 
