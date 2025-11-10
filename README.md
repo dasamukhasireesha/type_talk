@@ -66,7 +66,5 @@ If you find any bugs, I’m really sorry. Please feel free to report them or jus
 📩 **absrshanks@gmail.com**
 
 Thanks for checking out TypeTalk. I hope it makes speaking up just a little bit easier.  
-– Abhisar 💻🧠
-# type_talk_
-# type_talk
-# type_talk
+– sireesha 💻🧠
+
